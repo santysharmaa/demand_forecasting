@@ -1,0 +1,4 @@
+model,WAPE,improvement_vs_ma28_%
+Naive (same as last week),0.31520884918707376,-20.12195531619565
+28-day moving average,0.262407357886702,0.0
+LightGBM,0.2191619986411547,16.480238814118565

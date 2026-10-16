@@ -1,0 +1,3 @@
+policy,lost_units,total_demand,avg_stock_value,stockout_day_rate_%,fill_rate_%
+A: no safety stock,7692.67,506442,1775753.86,2.25,98.48
+B: with safety stock,898.33,506442,2074759.94,0.38,99.82
